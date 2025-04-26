@@ -28,6 +28,8 @@ The system is built as follows:
 4. **Grafana**  
    → Visualizes the train economics in real time with custom dashboards.
 
+![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/dataflow.png?raw=true)
+
 ---
 
 ## How It Works
