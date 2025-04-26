@@ -88,7 +88,7 @@ A little hook has been added in order to send a log event to grafana for each ve
 
 A new logging function has been added to send data to grafana
 
-![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/log.png?raw=true)
+![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/log.png?raw=true))
 
 
 ## Screenshots
