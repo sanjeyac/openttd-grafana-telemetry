@@ -83,9 +83,11 @@ The system is built as follows:
 ## OpenTTD mod code
 
 A little hook has been added in order to send a log event to grafana for each vehicle.
+
 ![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/vehicle_hook.png?raw=true)
 
 A new logging function has been added to send data to grafana
+
 ![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/log.png?raw=true)
 
 
