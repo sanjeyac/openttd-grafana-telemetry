@@ -1,5 +1,7 @@
 # OpenTTD Metrics Exporter
 
+![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/header.jpg?raw=true)
+
 ## Introduction
 
 This project is a fun and technical experiment:  
