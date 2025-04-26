@@ -79,12 +79,14 @@ The system is built as follows:
 4. Create Grafana Dashboards:
     - Connect Grafana to Prometheus.
     - Create panels showing train revenues, company stats, etc.
-  
-## Why This Project?
-- To learn more about OpenTTD internals.
-- To practice real-time metrics monitoring.
-- To experiment with C++, Python, Docker, Prometheus, and Grafana.
-- To have fun combining gaming and telemetry!
+
+## OpenTTD mod code
+
+A little hook has been added in order to send a log event to grafana for each vehicle.
+![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/vehicle_hook.png?raw=true)
+
+A new logging function has been added to send data to grafana
+![Header image](https://github.com/sanjeyac/openttd-grafana-telemetry/blob/main/docs/log.png?raw=true)
 
 
 ## Screenshots
